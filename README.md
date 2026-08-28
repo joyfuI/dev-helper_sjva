@@ -7,7 +7,7 @@
 ## 설치
 
 SJVA에서 "시스템 → 설정 → 플러그인 → 플러그인 목록 → 플러그인 수동 설치" 칸에 저장소 주소를 넣고 설치 버튼을 누르면 됩니다.  
-`https://github.com/joyfuI/dev-helper`
+`https://github.com/joyfuI/dev-helper_sjva`
 
 ## 메뉴 소개
 
